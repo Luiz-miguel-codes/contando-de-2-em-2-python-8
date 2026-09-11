@@ -1,6 +1,6 @@
 CONTANDO DE 2 EM 2 
 
-Contagem de 2 em 2 🔢
+Contagem de 2 em 2 
 
 Programa criado para praticar o while fazendo uma contagem de dois em dois.
 
